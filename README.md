@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Hi, I'm Jafar Raxmatullaev
 
-<!--
-**jafarrakhmatullayev2012/jafarrakhmatullayev2012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Beginner Developer | 🌍 Uzbekistan  
+🚀 Passionate about programming and building cool projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+- 🎯 Currently learning: Frontend & IT basics  
+- 💡 Interested in: Web Development, UI/UX  
+- 📚 Always improving my coding skills  
+- ⚡ Fun fact: I love creating and learning new things  
+
+---
+
+## 🛠 My Skills
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,vscode,github,figma" />
+  </a>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+- 💻 HTML | CSS | JavaScript  
+- 🎨 Tailwind CSS  
+- 🧰 Git & GitHub  
+
+---
+
+## 📫 Contact Me
+- 📧 Email: javohir998484019@gmail.com  
+- 📱 Telegram: @jafar000148 
+
+---
+
+## 🌟 Goals
+- 🚀 Become a strong Full Stack Developer  
+- 📦 Build useful and real-world projects  
+- 🌍 Work with international teams  
+
+---
+
+⭐️ Don't forget to follow me!
