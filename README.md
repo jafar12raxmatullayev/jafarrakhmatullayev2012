@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jafar Raxmatullaev
+## 👋 Hi, I'm Jafar Raxmatullaev
 
 💻 Beginner Developer | 🌍 Uzbekistan  
 🚀 Passionate about programming and building cool projects  
@@ -17,7 +17,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,vscode,github,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,vscode,github,figma,instagram,phyton" />
   </a>
 </p>
 
